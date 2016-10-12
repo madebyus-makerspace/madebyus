@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Showcase-rsses on MadeByUs</title>
+    <link>https://madebyus-makerspace.github.io/showcase/index.xml</link>
+    <description>Recent content in Showcase-rsses on MadeByUs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Oct 2016 14:20:35 +0200</lastBuildDate>
+    <atom:link href="https://madebyus-makerspace.github.io/showcase/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Made By Us</title>
+      <link>https://madebyus-makerspace.github.io/showcase/showcase/</link>
+      <pubDate>Wed, 12 Oct 2016 14:20:35 +0200</pubDate>
+      
+      <guid>https://madebyus-makerspace.github.io/showcase/showcase/</guid>
+      <description>&lt;p&gt;This is our showcase. We show stuff we made here.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

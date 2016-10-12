@@ -6,7 +6,38 @@
     <description>Recent content on MadeByUs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 12 Oct 2016 14:20:35 +0200</lastBuildDate>
     <atom:link href="https://madebyus-makerspace.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Made By Us</title>
+      <link>https://madebyus-makerspace.github.io/showcase/showcase/</link>
+      <pubDate>Wed, 12 Oct 2016 14:20:35 +0200</pubDate>
+      
+      <guid>https://madebyus-makerspace.github.io/showcase/showcase/</guid>
+      <description>&lt;p&gt;This is our showcase. We show stuff we made here.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Community</title>
+      <link>https://madebyus-makerspace.github.io/community/community/</link>
+      <pubDate>Wed, 12 Oct 2016 14:05:05 +0200</pubDate>
+      
+      <guid>https://madebyus-makerspace.github.io/community/community/</guid>
+      <description>&lt;p&gt;We are a community of people with an artistic and techie background, mostly.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Space</title>
+      <link>https://madebyus-makerspace.github.io/space/space/</link>
+      <pubDate>Wed, 12 Oct 2016 14:03:27 +0200</pubDate>
+      
+      <guid>https://madebyus-makerspace.github.io/space/space/</guid>
+      <description>&lt;p&gt;We are in the process of putting together two &lt;a href=&#34;http://e3d-online.com/&#34;&gt;e3d printers&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
